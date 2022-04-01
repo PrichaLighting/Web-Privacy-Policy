@@ -4,7 +4,7 @@ This Privacy Policy is covers the general privacy concerns and regulations.
 
 ## Introduction
 
-We, L&E Corporation (“LES,” “we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our LES communication app (“LES Tracking App”) and all products,
+We, L&E Corporation (“LES,” “we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our LES communication app (“LES Tracking App”) and all products
 
 
 ## What is a Personal Data
