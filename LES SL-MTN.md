@@ -1,4 +1,4 @@
-# LES SL-MTN Privacy Policy 
+# LES SL-MTN Privacy Policy
 
 This Privacy Policy is covers the general privacy concerns and regulations.
 
